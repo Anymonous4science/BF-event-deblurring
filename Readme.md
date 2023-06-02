@@ -1,4 +1,4 @@
-# BF Dvent Deblurring
+# BF Event Deblurring
 
 ### Installation
 ```
